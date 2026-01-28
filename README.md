@@ -26,10 +26,6 @@ ExoHunter is a web platform designed to democratize space exploration. It allows
 * **AI Engine:** Flask (Python) API serving a Random Forest Model.
 * **Frontend:** Tailwind CSS with Chart.js for data visualization.
 
-## 📸 Hackathon Snapshot
-*(Add 1 or 2 images here from the hackathon version)*
-
----
 
 ### 🚀 Future Roadmap (V2)
 * [ ] Refactoring the AI Model Integration.
